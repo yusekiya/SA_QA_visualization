@@ -2,13 +2,6 @@
 
 This program generates movie which visualize the behavior of simulated annealing (SA) and quantum annealing (QA).
 
-
-<style>
-figure {
-  display: block;
-  text-align:center;
-}
-</style>
 <figure>
 <img src="./demo/SA.gif" width=400px>
 <figcaption>Visualization of SA</figcaption>
